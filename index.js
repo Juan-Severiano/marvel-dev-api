@@ -1,5 +1,4 @@
-const clientModule = require('./client.entity');
-const { Client } = clientModule
+const { Client } = require('./lib/client.entity');
 
 function createClient(clientKeys) {
   const { privateKey, publicKey, ts } = clientKeys;

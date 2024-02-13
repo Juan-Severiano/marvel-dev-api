@@ -2,7 +2,7 @@
   "name": "marvel-dev-api",
   "version": "1.0.5",
   "description": "This modules was made to make the requests to Marvel developer portal more simple",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
