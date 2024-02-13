@@ -1,6 +1,6 @@
 {
   "name": "marvel-dev-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This modules was made to make the requests to Marvel developer portal more simple",
   "main": "lib/index.js",
   "scripts": {
